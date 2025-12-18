@@ -52,5 +52,3 @@ Once the game starts, simply enter the number corresponding to the game you want
 *   Press `2` for **Slot Machine**
 *   Press `3` for **Bagels**
 
----
-*Developed by [Shayan Raza](https://github.com/shayanRaza92)*
